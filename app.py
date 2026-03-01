@@ -78,6 +78,10 @@ def get_lat_lon(location):
     try:
         url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={GOOGLE_MAPS_API_KEY}"
         res = requests.get(url).json()
+
+        if res.get("status") != "OK":
+            raise HTTPException(status_code=400, detail="Invalid location")
+
         loc = res["results"][0]["geometry"]["location"]
         return loc["lat"], loc["lng"]
     except:
@@ -154,12 +158,10 @@ def predict(data: FarmerInput):
 
         total_cost = vals["cost_per_acre"] * data.land_size
 
-        # Budget validation
         if data.budget < total_cost:
             continue
 
         ideal_total = vals["N"] + vals["P"] + vals["K"]
-
         score = abs(N - vals["N"]) + abs(P - vals["P"]) + abs(K - vals["K"])
         suitability = max(0, 100 - (score / ideal_total) * 100)
 
@@ -178,21 +180,39 @@ def predict(data: FarmerInput):
         profit = revenue - total_cost
         roi = (profit / total_cost) * 100 if total_cost != 0 else 0
 
-        # Select best ROI with positive profit
         if profit > 0 and roi > best_roi:
             best_roi = roi
             best_crop = crop_name
             best_result = {
-                "recommended_crop": crop_name,
-                "predicted_category": predicted_category,
-                "suitability_percent": round(suitability, 2),
-                "predicted_price_per_quintal": round(predicted_price, 2),
-                "yield_per_acre_quintals": round(yield_per_acre, 2),
-                "total_yield_quintals": round(total_yield, 2),
-                "total_cost": round(total_cost, 2),
-                "revenue": round(revenue, 2),
-                "profit": round(profit, 2),
-                "roi_percent": round(roi, 2)
+                "farmer_input": {
+                    "location": data.location,
+                    "district": district,
+                    "season": season,
+                    "soil_type": data.soil_type,
+                    "water_level": data.water,
+                    "land_size_acres": data.land_size,
+                    "budget": data.budget
+                },
+                "environment_data": {
+                    "temperature": temperature,
+                    "humidity": humidity,
+                    "soil_moisture": soil_moisture,
+                    "calculated_NPK": {"N": N, "P": P, "K": K}
+                },
+                "prediction": {
+                    "recommended_crop": crop_name,
+                    "predicted_category": predicted_category,
+                    "suitability_percent": round(suitability, 2)
+                },
+                "financial_analysis": {
+                    "price_per_quintal": round(predicted_price, 2),
+                    "yield_per_acre_quintals": round(yield_per_acre, 2),
+                    "total_yield_quintals": round(total_yield, 2),
+                    "total_cost": round(total_cost, 2),
+                    "expected_revenue": round(revenue, 2),
+                    "net_profit": round(profit, 2),
+                    "roi_percent": round(roi, 2)
+                }
             }
 
     if not best_crop:
@@ -202,6 +222,7 @@ def predict(data: FarmerInput):
         }
 
     return best_result
+
 
 if __name__ == "__main__":
     import uvicorn
