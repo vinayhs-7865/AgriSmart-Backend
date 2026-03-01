@@ -1,0 +1,2160 @@
+DISTRICTS,SOIL_TYPE,COMMODITIES,SEASONS,WATER_REQ,Min_Temp,Max_Temp,Ideal_Hum,N,P,K
+Bagalkot,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Bagalkot,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Bagalkot,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Bagalkot,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Bagalkot,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Bagalkot,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Bagalkot,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Bagalkot,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Bagalkot,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Bagalkot,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Bagalkot,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Bagalkot,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Bagalkot,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Bagalkot,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Bagalkot,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Bagalkot,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Bagalkot,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Bagalkot,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Bagalkot,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Bagalkot,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Bagalkot,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Bagalkot,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Bagalkot,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Bagalkot,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Bagalkot,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Bagalkot,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Bagalkot,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Ballari (Bellary),Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Ballari (Bellary),Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Ballari (Bellary),Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Ballari (Bellary),Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Ballari (Bellary),Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Ballari (Bellary),Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Ballari (Bellary),Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Ballari (Bellary),Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Ballari (Bellary),Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Ballari (Bellary),Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Ballari (Bellary),Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Ballari (Bellary),Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Ballari (Bellary),Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Ballari (Bellary),Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Ballari (Bellary),Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Ballari (Bellary),Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Ballari (Bellary),Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Ballari (Bellary),Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Ballari (Bellary),Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Ballari (Bellary),Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Ballari (Bellary),Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Ballari (Bellary),Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Ballari (Bellary),Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Belagavi (Belgaum),Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Belagavi (Belgaum),Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Belagavi (Belgaum),Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Belagavi (Belgaum),Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Belagavi (Belgaum),Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Belagavi (Belgaum),Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Belagavi (Belgaum),Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Belagavi (Belgaum),Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Belagavi (Belgaum),Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Belagavi (Belgaum),Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Belagavi (Belgaum),Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Belagavi (Belgaum),Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Belagavi (Belgaum),Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Belagavi (Belgaum),Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Belagavi (Belgaum),Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Belagavi (Belgaum),Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Belagavi (Belgaum),Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Belagavi (Belgaum),Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Belagavi (Belgaum),Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Belagavi (Belgaum),Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Belagavi (Belgaum),Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Belagavi (Belgaum),Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Belagavi (Belgaum),Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Bengaluru Rural,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Bengaluru Rural,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Bengaluru Rural,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Bengaluru Rural,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Bengaluru Rural,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Bengaluru Rural,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Bengaluru Rural,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Bengaluru Rural,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Bengaluru Rural,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Bengaluru Rural,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Bengaluru Rural,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Bengaluru Rural,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Bengaluru Rural,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Bengaluru Rural,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Bengaluru Rural,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Rural,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Bengaluru Rural,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Bengaluru Rural,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Bengaluru Rural,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Bengaluru Urban,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Bengaluru Urban,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Bengaluru Urban,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Bengaluru Urban,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Bengaluru Urban,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Bengaluru Urban,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Bengaluru Urban,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Bengaluru Urban,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Bengaluru Urban,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Bengaluru Urban,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Bengaluru Urban,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Bengaluru Urban,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Bengaluru Urban,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Bengaluru Urban,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Bengaluru Urban,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Bengaluru Urban,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Bengaluru Urban,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Bengaluru Urban,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Bidar,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Bidar,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Bidar,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Bidar,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Bidar,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Bidar,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Bidar,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Bidar,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Bidar,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Bidar,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Bidar,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Bidar,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Bidar,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Bidar,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Bidar,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Bidar,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Bidar,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Bidar,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Bidar,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Bidar,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Bidar,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Bidar,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Bidar,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Bidar,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Bidar,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Bidar,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Chamarajanagar,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Chamarajanagar,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Chamarajanagar,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Chamarajanagar,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Chamarajanagar,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Chamarajanagar,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Chamarajanagar,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Chamarajanagar,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Chamarajanagar,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Chamarajanagar,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Chamarajanagar,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Chamarajanagar,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Chamarajanagar,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Chamarajanagar,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Chamarajanagar,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Chamarajanagar,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Chamarajanagar,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Chamarajanagar,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Chamarajanagar,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Chikkaballapura,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Chikkaballapura,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Chikkaballapura,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Chikkaballapura,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Chikkaballapura,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Chikkaballapura,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Chikkaballapura,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Chikkaballapura,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Chikkaballapura,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Chikkaballapura,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Chikkaballapura,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Chikkaballapura,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Chikkaballapura,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Chikkaballapura,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkaballapura,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Chikkaballapura,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Chikkaballapura,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Chikkaballapura,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Chikkamagaluru,Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Chikkamagaluru,Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Chikkamagaluru,Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Chikkamagaluru,Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Chikkamagaluru,Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Chikkamagaluru,Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Chikkamagaluru,Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Chikkamagaluru,Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Chikkamagaluru,Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Chikkamagaluru,Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Chikkamagaluru,Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Chikkamagaluru,Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Chikkamagaluru,Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Chikkamagaluru,Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Chikkamagaluru,Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Chikkamagaluru,Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Chikkamagaluru,Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Chikkamagaluru,Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Chikkamagaluru,Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Chikkamagaluru,Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Chikkamagaluru,Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Chikkamagaluru,Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Chikkamagaluru,Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Chikkamagaluru,Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Chikkamagaluru,Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Chitradurga,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Chitradurga,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Chitradurga,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Chitradurga,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Chitradurga,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Chitradurga,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Chitradurga,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Chitradurga,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Chitradurga,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Chitradurga,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Chitradurga,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Chitradurga,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Chitradurga,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Chitradurga,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Chitradurga,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Chitradurga,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Chitradurga,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Chitradurga,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Chitradurga,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Chitradurga,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Chitradurga,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Chitradurga,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Dakshina Kannada,Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Dakshina Kannada,Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Dakshina Kannada,Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Dakshina Kannada,Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Dakshina Kannada,Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Dakshina Kannada,Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Dakshina Kannada,Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Dakshina Kannada,Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Dakshina Kannada,Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Dakshina Kannada,Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Dakshina Kannada,Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Dakshina Kannada,Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Dakshina Kannada,Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Dakshina Kannada,Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Dakshina Kannada,Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Dakshina Kannada,Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Dakshina Kannada,Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Dakshina Kannada,Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Dakshina Kannada,Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Dakshina Kannada,Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Dakshina Kannada,Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Dakshina Kannada,Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Dakshina Kannada,Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Dakshina Kannada,Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Dakshina Kannada,Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Davanagere,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Davanagere,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Davanagere,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Davanagere,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Davanagere,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Davanagere,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Davanagere,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Davanagere,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Davanagere,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Davanagere,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Davanagere,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Davanagere,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Davanagere,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Davanagere,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Davanagere,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Davanagere,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Davanagere,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Davanagere,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Davanagere,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Davanagere,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Davanagere,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Davanagere,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Dharwad,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Dharwad,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Dharwad,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Dharwad,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Dharwad,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Dharwad,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Dharwad,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Dharwad,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Dharwad,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Dharwad,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Dharwad,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Dharwad,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Dharwad,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Dharwad,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Dharwad,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Dharwad,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Dharwad,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Dharwad,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Dharwad,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Dharwad,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Dharwad,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Dharwad,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Dharwad,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Dharwad,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Dharwad,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Dharwad,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Gadag,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Gadag,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Gadag,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Gadag,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Gadag,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Gadag,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Gadag,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Gadag,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Gadag,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Gadag,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Gadag,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Gadag,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Gadag,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Gadag,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Gadag,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Gadag,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Gadag,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Gadag,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Gadag,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Gadag,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Gadag,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Gadag,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Gadag,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Gadag,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Gadag,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Gadag,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Gadag,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Hassan,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Hassan,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Hassan,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Hassan,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Hassan,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Hassan,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Hassan,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Hassan,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Hassan,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Hassan,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Hassan,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Hassan,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Hassan,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Hassan,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Hassan,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Hassan,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Hassan,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Hassan,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Hassan,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Hassan,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Hassan,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Hassan,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Hassan,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Haveri,Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Haveri,Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Haveri,Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Haveri,Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Haveri,Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Haveri,Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Haveri,Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Haveri,Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Haveri,Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Haveri,Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Haveri,Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Haveri,Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Haveri,Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Haveri,Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Haveri,Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Haveri,Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Haveri,Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Haveri,Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Haveri,Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Haveri,Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Haveri,Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Haveri,Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Haveri,Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Haveri,Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Haveri,Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Kalaburagi(Gulbarga),Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Kalaburagi(Gulbarga),Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Kalaburagi(Gulbarga),Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Kalaburagi(Gulbarga),Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Kalaburagi(Gulbarga),Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Kalaburagi(Gulbarga),Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Kalaburagi(Gulbarga),Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Kalaburagi(Gulbarga),Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Kalaburagi(Gulbarga),Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Kalaburagi(Gulbarga),Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Kalaburagi(Gulbarga),Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Kalaburagi(Gulbarga),Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Kalaburagi(Gulbarga),Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Kalaburagi(Gulbarga),Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Kalaburagi(Gulbarga),Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Kalaburagi(Gulbarga),Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Kalaburagi(Gulbarga),Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Kalaburagi(Gulbarga),Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Kalaburagi(Gulbarga),Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Kalaburagi(Gulbarga),Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Kalaburagi(Gulbarga),Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Kalaburagi(Gulbarga),Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Kodagu,Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Kodagu,Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Kodagu,Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Kodagu,Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Kodagu,Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Kodagu,Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Kodagu,Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Kodagu,Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Kodagu,Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Kodagu,Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Kodagu,Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Kodagu,Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Kodagu,Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Kodagu,Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Kodagu,Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Kodagu,Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Kodagu,Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Kodagu,Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Kodagu,Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Kodagu,Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Kodagu,Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Kodagu,Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Kodagu,Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Kodagu,Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Kodagu,Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Kodagu,Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Kolar,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Kolar,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Kolar,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Kolar,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Kolar,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Kolar,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Kolar,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Kolar,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Kolar,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Kolar,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Kolar,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Kolar,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Kolar,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Kolar,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Kolar,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Kolar,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Kolar,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Kolar,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Kolar,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Kolar,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Kolar,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Kolar,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Koppal,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Koppal,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Koppal,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Koppal,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Koppal,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Koppal,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Koppal,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Koppal,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Koppal,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Koppal,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Koppal,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Koppal,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Koppal,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Koppal,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Koppal,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Koppal,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Koppal,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Koppal,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Koppal,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Koppal,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Koppal,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Koppal,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Koppal,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Koppal,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Koppal,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Koppal,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Mandya,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Mandya,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Mandya,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Mandya,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Mandya,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Mandya,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Mandya,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Mandya,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Mandya,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Mandya,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Mandya,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Mandya,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Mandya,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Mandya,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Mandya,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Mandya,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Mandya,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Mandya,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Mandya,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Mandya,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Mandya,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Mandya,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Mandya,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Mysuru (Mysore),Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Mysuru (Mysore),Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Mysuru (Mysore),Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Mysuru (Mysore),Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Mysuru (Mysore),Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Mysuru (Mysore),Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Mysuru (Mysore),Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Mysuru (Mysore),Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Mysuru (Mysore),Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Mysuru (Mysore),Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Mysuru (Mysore),Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Mysuru (Mysore),Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Mysuru (Mysore),Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Mysuru (Mysore),Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Mysuru (Mysore),Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Mysuru (Mysore),Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Mysuru (Mysore),Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Mysuru (Mysore),Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Raichur,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Raichur,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Raichur,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Raichur,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Raichur,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Raichur,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Raichur,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Raichur,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Raichur,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Raichur,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Raichur,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Raichur,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Raichur,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Raichur,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Raichur,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Raichur,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Raichur,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Raichur,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Raichur,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Raichur,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Raichur,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Raichur,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Raichur,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Raichur,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Raichur,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Raichur,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Ramanagara,Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Ramanagara,Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Ramanagara,Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Ramanagara,Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Ramanagara,Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Ramanagara,Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Ramanagara,Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Ramanagara,Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Ramanagara,Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Ramanagara,Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Ramanagara,Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Ramanagara,Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Ramanagara,Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Ramanagara,Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Ramanagara,Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Ramanagara,Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Ramanagara,Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Ramanagara,Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Ramanagara,Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Ramanagara,Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Ramanagara,Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Ramanagara,Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Ramanagara,Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Shivamogga (Shimoga),Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Shivamogga (Shimoga),Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Shivamogga (Shimoga),Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Shivamogga (Shimoga),Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Shivamogga (Shimoga),Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Shivamogga (Shimoga),Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Shivamogga (Shimoga),Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Shivamogga (Shimoga),Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Shivamogga (Shimoga),Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Shivamogga (Shimoga),Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Shivamogga (Shimoga),Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Shivamogga (Shimoga),Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Shivamogga (Shimoga),Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Shivamogga (Shimoga),Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Shivamogga (Shimoga),Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Shivamogga (Shimoga),Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Tumakuru (Tumkur),Red Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Tumakuru (Tumkur),Red Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Tumakuru (Tumkur),Red Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Tumakuru (Tumkur),Red Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Tumakuru (Tumkur),Red Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Tumakuru (Tumkur),Red Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Tumakuru (Tumkur),Red Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Tumakuru (Tumkur),Red Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Tumakuru (Tumkur),Red Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Tumakuru (Tumkur),Red Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Tumakuru (Tumkur),Red Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Tumakuru (Tumkur),Red Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Pineapple,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Tumakuru (Tumkur),Red Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Tumakuru (Tumkur),Red Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Rubber,Annual,HIGH,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Tumakuru (Tumkur),Red Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Tumakuru (Tumkur),Red Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Tumakuru (Tumkur),Red Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Tumakuru (Tumkur),Red Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Udupi,Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Udupi,Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Udupi,Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Udupi,Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Udupi,Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Udupi,Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Udupi,Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Udupi,Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Udupi,Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Udupi,Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Udupi,Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Udupi,Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Udupi,Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Udupi,Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Udupi,Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Udupi,Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Udupi,Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Udupi,Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Udupi,Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Udupi,Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Udupi,Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Udupi,Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Udupi,Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Udupi,Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Udupi,Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Beans,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Cabbage,Winter,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Carrot,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Cauliflower,Winter,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Coconut,Annual,HIGH,20,32,80,100,60,150
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Ginger(Green),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Green Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Jute,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Marigold(Calcutta),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Marigold(Calcutta),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Marigold(loose),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Marigold(loose),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Paddy(Basmati),Monsoon,HIGH,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Paddy(Basmati),Summer,HIGH,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Paddy(Common),Monsoon,HIGH,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Paddy(Common),Summer,HIGH,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Pointed gourd(Parval),Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Pointed gourd(Parval),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Potato,Monsoon,MODERATE,15,25,75,120,60,110
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Potato,Post-Monsoon,MODERATE,15,25,75,120,60,110
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Raddish,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Rice,Monsoon,HIGH,20,35,85,90,42,43
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Rice,Summer,HIGH,20,35,85,90,42,43
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Rose(Local),Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Seemebadnekai,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Seemebadnekai,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Spinach,Annual,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sweet Potato,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sweet Potato,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sweet Potato,Winter,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Turmeric,Monsoon,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Uttara Kannada (Karwar),Coastal Alluvial Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Uttara Kannada (Karwar),Coastal Alluvial Soil,White Peas,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Vijayanagara,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Vijayanagara,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Vijayanagara,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Vijayanagara,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Vijayanagara,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Vijayanagara,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Vijayanagara,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Vijayanagara,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Vijayanagara,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Vijayanagara,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Vijayanagara,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Vijayanagara,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Vijayanagara,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Vijayanagara,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Vijayanagara,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Vijayanagara,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Vijayanagara,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Vijayanagara,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Vijayanagara,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Vijayanagara,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Vijayanagara,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Vijayanagara,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Vijayanagara,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Vijayanagara,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Vijayanagara,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Vijayanagara,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Vijayapura (Bijapur),Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Vijayapura (Bijapur),Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Vijayapura (Bijapur),Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Vijayapura (Bijapur),Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Vijayapura (Bijapur),Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Vijayapura (Bijapur),Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Vijayapura (Bijapur),Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Vijayapura (Bijapur),Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Vijayapura (Bijapur),Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Vijayapura (Bijapur),Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Vijayapura (Bijapur),Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Vijayapura (Bijapur),Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Vijayapura (Bijapur),Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Vijayapura (Bijapur),Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Vijayapura (Bijapur),Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Vijayapura (Bijapur),Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Vijayapura (Bijapur),Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Vijayapura (Bijapur),Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Vijayapura (Bijapur),Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Vijayapura (Bijapur),Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Vijayapura (Bijapur),Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Vijayapura (Bijapur),Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Vijayapura (Bijapur),Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
+Yadgir,Black Soil,Bajra(Pearl Millet/Cumbu),Monsoon,LOW,25,38,45,50,30,30
+Yadgir,Black Soil,Bajra(Pearl Millet/Cumbu),Post-Monsoon,LOW,25,38,45,50,30,30
+Yadgir,Black Soil,Bajra(Pearl Millet/Cumbu),Summer,LOW,25,38,45,50,30,30
+Yadgir,Black Soil,Banana,Annual,HIGH,15,35,80,110,80,200
+Yadgir,Black Soil,Bhindi(Ladies Finger),Monsoon,MODERATE,22,35,65,60,40,40
+Yadgir,Black Soil,Bhindi(Ladies Finger),Summer,MODERATE,22,35,65,60,40,40
+Yadgir,Black Soil,Bitter gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Bitter gourd,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Bottle gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Bottle gourd,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Brinjal,Monsoon,MODERATE,20,32,65,80,50,50
+Yadgir,Black Soil,Brinjal,Summer,MODERATE,20,32,65,80,50,50
+Yadgir,Black Soil,Brinjal,Winter,MODERATE,20,32,65,80,50,50
+Yadgir,Black Soil,Capsicum,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Capsicum,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Cucumber(Kheera),Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Cucumber(Kheera),Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Green Avare(W),Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Green Chilli,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Green Chilli,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Groundnut,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Guava,Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Jowar(Sorghum),Monsoon,LOW,24,34,50,60,30,30
+Yadgir,Black Soil,Jowar(Sorghum),Post-Monsoon,LOW,24,34,50,60,30,30
+Yadgir,Black Soil,Karbuja(Musk Melon),Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Lemon,Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Maize,Monsoon,MODERATE,18,32,65,70,40,45
+Yadgir,Black Soil,Mango,Summer,MODERATE,24,34,55,80,45,90
+Yadgir,Black Soil,Mango(Raw-Ripe),Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Millets,Monsoon,LOW,20,30,60,80,45,50
+Yadgir,Black Soil,Mustard,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Onion,Monsoon,MODERATE,15,27,55,100,50,50
+Yadgir,Black Soil,Onion,Post-Monsoon,MODERATE,15,27,55,100,50,50
+Yadgir,Black Soil,Onion Green,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Onion Green,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Orange,Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Papaya,Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Papaya(Raw),Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Pomegranate,Annual,MODERATE,20,35,45,70,40,60
+Yadgir,Black Soil,Pumpkin,Mosoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Red Gram,Monsoon,LOW,20,30,60,80,45,50
+Yadgir,Black Soil,Ridgegourd(Tori),Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Ridgegourd(Tori),Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Round gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Season Leaves,Annual,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,"Sesamum(Sesame,Gingelly,Til)",Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Snakegourd,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Snakegourd,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Soanf,Post-Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Soyabean,Monsoon,MODERATE,20,32,65,40,60,50
+Yadgir,Black Soil,Sponge gourd,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Sponge gourd,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Sugarcane,Annual,HIGH,20,35,80,150,70,120
+Yadgir,Black Soil,Surat Beans(Papadi),Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Surat Beans(Papadi),Winter,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Sweet Pumpkin,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Sweet Pumpkin,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Tamarind Fruit,Annual,LOW,20,30,60,80,45,50
+Yadgir,Black Soil,Tender Coconut,Annual,HIGH,20,30,60,80,45,50
+Yadgir,Black Soil,Thondekai,Monsoon,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Thondekai,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Tomatao,Monsoon,MODERATE,18,30,65,100,60,60
+Yadgir,Black Soil,Tomatao,Summer,MODERATE,18,30,65,100,60,60
+Yadgir,Black Soil,Tomatao,Winter',MODERATE,18,30,65,100,60,60
+Yadgir,Black Soil,Water Melon,Summer,MODERATE,20,30,60,80,45,50
+Yadgir,Black Soil,Wheat,Post-Monsoon,MODERATE,10,26,55,100,50,40
