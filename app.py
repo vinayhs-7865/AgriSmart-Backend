@@ -27,6 +27,12 @@ category_model = joblib.load("final_crop_category_classifier.pkl")
 price_model = joblib.load("price_prediction_model.pkl")
 
 # ==============================
+# Valid Inputs
+# ==============================
+VALID_SOILS = ["Red Soil", "Black Soil", "Coastal Alluvial Soil"]
+VALID_WATER = ["Low", "Moderate", "High"]
+
+# ==============================
 # Crop Database
 # ==============================
 crop_database = {
@@ -75,17 +81,14 @@ def get_sensor_data():
         raise HTTPException(status_code=500, detail="Failed to fetch IoT sensor data")
 
 def get_lat_lon(location):
-    try:
-        url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={GOOGLE_MAPS_API_KEY}"
-        res = requests.get(url).json()
+    url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={GOOGLE_MAPS_API_KEY}"
+    res = requests.get(url).json()
 
-        if res.get("status") != "OK":
-            raise HTTPException(status_code=400, detail="Invalid location")
-
-        loc = res["results"][0]["geometry"]["location"]
-        return loc["lat"], loc["lng"]
-    except:
+    if res.get("status") != "OK":
         raise HTTPException(status_code=400, detail="Invalid location")
+
+    loc = res["results"][0]["geometry"]["location"]
+    return loc["lat"], loc["lng"]
 
 def get_district(lat, lon):
     url = f"https://maps.googleapis.com/maps/api/geocode/json?latlng={lat},{lon}&key={GOOGLE_MAPS_API_KEY}"
@@ -111,9 +114,17 @@ def get_season():
 @app.post("/predict")
 def predict(data: FarmerInput):
 
+    # Validate Soil
+    if data.soil_type not in VALID_SOILS:
+        raise HTTPException(status_code=400, detail="Invalid soil type")
+
+    # Validate Water
+    if data.water not in VALID_WATER:
+        raise HTTPException(status_code=400, detail="Invalid water level")
+
     temperature, humidity, soil_moisture = get_sensor_data()
 
-    # Estimate NPK from soil moisture
+    # NPK estimation from soil moisture
     if soil_moisture < 30:
         N, P, K = 40, 20, 20
     elif soil_moisture < 60:
@@ -147,9 +158,8 @@ def predict(data: FarmerInput):
 
     predicted_category = category_model.predict(input_df)[0]
 
-    best_crop = None
     best_roi = -999999
-    best_result = {}
+    best_result = None
 
     HECTARE_TO_ACRE = 2.471
     TON_TO_QUINTAL = 10
@@ -169,12 +179,15 @@ def predict(data: FarmerInput):
         yield_per_acre = (yield_hectare / HECTARE_TO_ACRE) * TON_TO_QUINTAL
         total_yield = yield_per_acre * data.land_size
 
-        price_df = pd.DataFrame([{
-            "District": district,
-            "Crop": crop_name
-        }])
-
-        predicted_price = price_model.predict(price_df)[0]
+        # Safe price prediction
+        try:
+            price_df = pd.DataFrame([{
+                "District": district,
+                "Crop": crop_name
+            }])
+            predicted_price = float(price_model.predict(price_df)[0])
+        except:
+            predicted_price = 0.0
 
         revenue = total_yield * predicted_price
         profit = revenue - total_cost
@@ -182,7 +195,6 @@ def predict(data: FarmerInput):
 
         if profit > 0 and roi > best_roi:
             best_roi = roi
-            best_crop = crop_name
             best_result = {
                 "farmer_input": {
                     "location": data.location,
@@ -215,7 +227,7 @@ def predict(data: FarmerInput):
                 }
             }
 
-    if not best_crop:
+    if not best_result:
         return {
             "message": "No profitable crop found within your budget under current conditions.",
             "predicted_category": predicted_category
