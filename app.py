@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import joblib
 import pandas as pd
@@ -8,6 +9,17 @@ import os
 from dotenv import load_dotenv
 
 app = FastAPI()
+
+# ==============================
+# Enable CORS (Required for Mobile/Web)
+# ==============================
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ==============================
 # Load Environment
@@ -74,25 +86,28 @@ class FarmerInput(BaseModel):
 def get_sensor_data():
     try:
         url = f"{FIREBASE_URL}/sensor_data.json"
-        response = requests.get(url)
+        response = requests.get(url, timeout=10)
         data = response.json()
         return data["temperature"], data["humidity"], data["soil_moisture"]
     except:
         raise HTTPException(status_code=500, detail="Failed to fetch IoT sensor data")
 
 def get_lat_lon(location):
-    url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={GOOGLE_MAPS_API_KEY}"
-    res = requests.get(url).json()
+    try:
+        url = f"https://maps.googleapis.com/maps/api/geocode/json?address={location}&key={GOOGLE_MAPS_API_KEY}"
+        res = requests.get(url, timeout=10).json()
 
-    if res.get("status") != "OK":
+        if res.get("status") != "OK":
+            raise HTTPException(status_code=400, detail="Invalid location")
+
+        loc = res["results"][0]["geometry"]["location"]
+        return loc["lat"], loc["lng"]
+    except:
         raise HTTPException(status_code=400, detail="Invalid location")
-
-    loc = res["results"][0]["geometry"]["location"]
-    return loc["lat"], loc["lng"]
 
 def get_district(lat, lon):
     url = f"https://maps.googleapis.com/maps/api/geocode/json?latlng={lat},{lon}&key={GOOGLE_MAPS_API_KEY}"
-    res = requests.get(url).json()
+    res = requests.get(url, timeout=10).json()
     for r in res.get("results", []):
         for comp in r.get("address_components", []):
             if "administrative_area_level_2" in comp["types"]:
@@ -114,17 +129,19 @@ def get_season():
 @app.post("/predict")
 def predict(data: FarmerInput):
 
-    # Validate Soil
+    # Validate inputs
     if data.soil_type not in VALID_SOILS:
         raise HTTPException(status_code=400, detail="Invalid soil type")
 
-    # Validate Water
     if data.water not in VALID_WATER:
         raise HTTPException(status_code=400, detail="Invalid water level")
 
+    if data.land_size <= 0 or data.budget <= 0:
+        raise HTTPException(status_code=400, detail="Land size and budget must be positive")
+
     temperature, humidity, soil_moisture = get_sensor_data()
 
-    # NPK estimation from soil moisture
+    # Estimate NPK from soil moisture
     if soil_moisture < 30:
         N, P, K = 40, 20, 20
     elif soil_moisture < 60:
@@ -172,14 +189,14 @@ def predict(data: FarmerInput):
             continue
 
         ideal_total = vals["N"] + vals["P"] + vals["K"]
+
         score = abs(N - vals["N"]) + abs(P - vals["P"]) + abs(K - vals["K"])
         suitability = max(0, 100 - (score / ideal_total) * 100)
 
         yield_hectare = vals["base_yield"] * (npk_total / ideal_total)
-        yield_per_acre = (yield_hectare / HECTARE_TO_ACRE) * TON_TO_QUINTAL
+        yield_per_acre = max(0, (yield_hectare / HECTARE_TO_ACRE) * TON_TO_QUINTAL)
         total_yield = yield_per_acre * data.land_size
 
-        # Safe price prediction
         try:
             price_df = pd.DataFrame([{
                 "District": district,

@@ -28,16 +28,16 @@ class PredictionResultWidget extends StatelessWidget {
                 ),
                 const SizedBox(height: 10),
                 Text(
-                  result.prediction['recommended_crop'],
+                  result.prediction.recommendedCrop,
                   style: const TextStyle(
                     fontSize: 26,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
                 const SizedBox(height: 10),
-                Text("ROI: ${result.financialAnalysis['roi_percent']}%"),
+                Text("ROI: ${result.financialAnalysis.roiPercent}%"),
                 Text(
-                  "Expected Profit: ₹${result.financialAnalysis['net_profit']}",
+                  "Expected Profit: ₹${result.financialAnalysis.netProfit}",
                 ),
               ],
             ),
@@ -53,26 +53,26 @@ class PredictionResultWidget extends StatelessWidget {
           title: const Text("💰 Financial Analysis"),
           children: [
             ListTile(
-              title: Text("Price per Quintal"),
+              title: const Text("Price per Quintal"),
               trailing: Text(
-                "₹${result.financialAnalysis['price_per_quintal']}",
+                "₹${result.financialAnalysis.pricePerQuintal}",
               ),
             ),
             ListTile(
-              title: Text("Yield per Acre"),
+              title: const Text("Yield per Acre"),
               trailing: Text(
-                "${result.financialAnalysis['yield_per_acre_quintals']} q",
+                "${result.financialAnalysis.yieldPerAcre} q",
               ),
             ),
             ListTile(
-              title: Text("Total Revenue"),
+              title: const Text("Total Revenue"),
               trailing: Text(
-                "₹${result.financialAnalysis['expected_revenue']}",
+                "₹${result.financialAnalysis.expectedRevenue}",
               ),
             ),
             ListTile(
-              title: Text("Total Cost"),
-              trailing: Text("₹${result.financialAnalysis['total_cost']}"),
+              title: const Text("Total Cost"),
+              trailing: Text("₹${result.financialAnalysis.totalCost}"),
             ),
           ],
         ),
@@ -84,27 +84,32 @@ class PredictionResultWidget extends StatelessWidget {
           title: const Text("🌦 Environment Details"),
           children: [
             ListTile(
-              title: Text("Temperature"),
-              trailing: Text("${result.environmentData['temperature']} °C"),
+              title: const Text("Temperature"),
+              trailing:
+                  Text("${result.environmentData.temperature} °C"),
             ),
             ListTile(
-              title: Text("Humidity"),
-              trailing: Text("${result.environmentData['humidity']}%"),
+              title: const Text("Humidity"),
+              trailing:
+                  Text("${result.environmentData.humidity}%"),
             ),
             ListTile(
-              title: Text("Soil Moisture"),
-              trailing: Text("${result.environmentData['soil_moisture']}%"),
+              title: const Text("Soil Moisture"),
+              trailing:
+                  Text("${result.environmentData.soilMoisture}%"),
             ),
             ListTile(
-              title: Text("NPK Levels"),
+              title: const Text("NPK Levels"),
               trailing: Text(
-                "N:${result.environmentData['calculated_NPK']['N']} "
-                "P:${result.environmentData['calculated_NPK']['P']} "
-                "K:${result.environmentData['calculated_NPK']['K']}",
+                "N:${result.environmentData.calculatedNPK['N']} "
+                "P:${result.environmentData.calculatedNPK['P']} "
+                "K:${result.environmentData.calculatedNPK['K']}",
               ),
             ),
           ],
         ),
+
+        const SizedBox(height: 20),
 
         // =============================
         // 4️⃣ AI EXPLANATION
@@ -119,9 +124,9 @@ class PredictionResultWidget extends StatelessWidget {
             child: Text(
               "🧠 AI Explanation:\n\n"
               "Based on current soil moisture, calculated NPK levels, "
-              "season (${result.farmerInput['season']}), and district market prices, "
-              "${result.prediction['recommended_crop']} provides the highest ROI "
-              "with strong suitability (${result.prediction['suitability_percent']}%). "
+              "season (${result.farmerInput.season}), and district market prices, "
+              "${result.prediction.recommendedCrop} provides the highest ROI "
+              "with strong suitability (${result.prediction.suitabilityPercent}%). "
               "It fits within your budget and maximizes profit potential.",
               style: const TextStyle(fontSize: 14),
             ),
